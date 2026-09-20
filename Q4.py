@@ -1,0 +1,1 @@
+print("ID  Produk  Harga\n\n--------------------------")
